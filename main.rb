@@ -1,5 +1,4 @@
 require 'csv'
-require 'pry'
 require_relative 'lib/data_parser'
 require_relative 'lib/table'
 
